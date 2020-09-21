@@ -1,9 +1,9 @@
 # Write your methods here
-def loop_message_five_times(message)
- counter = 0 
- while count < 5 do
-   puts message 
-   counter++
- end
+ddef loop_message_five_times(message)
+  count = 0
+  while count < 5 do
+    puts message
+    count += 1
+  end
 end
 
